@@ -70,3 +70,6 @@ yarn-error.log
 
 # IDEs
 .idea/
+
+# Artifacts
+__snapshots__
